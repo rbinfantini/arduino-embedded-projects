@@ -65,7 +65,7 @@ During boot calibration, the firmware takes 10 consecutive measurements to deter
 
 1. Install the **DHT sensor library by Adafruit** in the Arduino IDE.
 2. Select **DOIT ESP32 DEVKIT V1** as the target board.
-3. Compile and upload `landslide-code.ino`.
+3. Compile and upload `landslide-alert-system.ino`.
 4. Connect your smartphone or computer to the Wi-Fi network:
    * **SSID:** `Proj_terra`
    * **Password:** *(Open network by default)*
