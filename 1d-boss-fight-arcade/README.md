@@ -60,5 +60,5 @@ The core loop is managed by a three-phase Finite State Machine:
 
 1. Install the **Adafruit NeoPixel** library from the Arduino Library Manager.
 2. Select your ESP32 board target (e.g., **ESP32 Dev Module**).
-3. Upload `minigame-code.ino` to the device.
+3. Upload `1d-boss-fight-arcade.ino` to the device.
 4. Press any button during the rainbow animation to begin playing.
