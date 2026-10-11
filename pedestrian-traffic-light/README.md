@@ -47,7 +47,7 @@ Under default conditions, the vehicular green signal remains energized. When a p
 ## How to Upload
 
 1. Connect the Arduino Uno to your workstation using a USB type-A/B cable.
-2. Open `stoplight-code.ino` in the Arduino IDE.
+2. Open `pedestrian-traffic-light.ino` in the Arduino IDE.
 3. Under `Tools > Board`, select **Arduino Uno**.
 4. Select the corresponding serial port under `Tools > Port`.
 5. Click **Upload** and verify the timing sequence on the breadboard.
